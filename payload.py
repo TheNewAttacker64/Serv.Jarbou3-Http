@@ -11,7 +11,7 @@ import requests
 from pyngrok import ngrok
 from  getpass import  getuser
 public_url = ngrok.connect(8080)
-__autho__ = "youhacker55"
+__author__ = "youhacker55"
 bottoken = ""
 chatid = ""
 def sendtg(msg, bot, chatid):
