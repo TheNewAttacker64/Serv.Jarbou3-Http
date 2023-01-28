@@ -1,7 +1,7 @@
 # Serv.Jarbou3-Http
 New Type of malwares  this simple script will disable Firewall start http server  and forward the port of the server using ngrok will send you  the http server url in telegram_bot
 
-# ScreenShot
+# Example
 ![](example.jpg)
 
 ## How To Use 
